@@ -1,2 +1,2 @@
-# s378-portfolio
+# cs378-portfolio
 HCI P0
